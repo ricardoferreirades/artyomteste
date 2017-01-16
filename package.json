@@ -1,0 +1,25 @@
+{
+  "name": "artyom_teste",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto em artyomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoferreirades/artyomteste.git"
+  },
+  "keywords": [
+    "artyom",
+    "javascript",
+    "voice",
+    "command"
+  ],
+  "author": "Ricardo Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoferreirades/artyomteste/issues"
+  },
+  "homepage": "https://github.com/ricardoferreirades/artyomteste#readme"
+}
